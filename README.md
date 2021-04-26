@@ -1,6 +1,16 @@
 ## Welcome to GitHub Pages
 
 ここは私のサイトです
+
+Markdown（マークダウン）は、**文章の書き方**です。デジタル文書を活用する方法として考案されました。特徴は、
+
+- 手軽に文章構造を明示できること
+- 簡単で、覚えやすいこと
+- 読み書きに特別なアプリを必要としないこと
+- それでいて、対応アプリを使えば快適に読み書きできること
+
+などです。Markdownはジョン・グルーバー（John Gruber）によって2004年に開発され、最初は [Daring Fireball: Markdown](http://daringfireball.net/projects/markdown/) で公開されました。その後、多くの開発者の手を経ながら発展してきました。
+
 You can use the [editor on GitHub](https://github.com/ryota0803na/ryota0803na.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
